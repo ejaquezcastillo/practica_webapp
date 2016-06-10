@@ -12,5 +12,6 @@ public class Main {
         staticFiles.location("/public");
         Routes rutas = new Routes();
 
+
     }
 }
